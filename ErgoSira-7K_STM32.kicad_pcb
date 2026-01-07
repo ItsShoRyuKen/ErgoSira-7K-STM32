@@ -7005,6 +7005,17 @@
 			(uuid "23397f39-0738-4a72-aa0b-b6c5850bb498")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Admin/Documents/GitHub/Sira_7K_Pad/Type-C.pretty/HRO  TYPE-C-31-M-12.step"
+			(offset
+				(xyz -4.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 -180)
+			)
+		)
 	)
 	(gr_poly
 		(pts
